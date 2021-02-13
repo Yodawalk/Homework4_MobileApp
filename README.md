@@ -1,4 +1,4 @@
-# Tutorial
+# ITCS424_Wireless and Mobile Computing
 
 A new Flutter project.
 
